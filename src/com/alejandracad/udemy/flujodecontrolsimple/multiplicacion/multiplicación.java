@@ -25,6 +25,7 @@ public class multiplicación {
                 multiplicacionOpcion2 += numero1;
             }
 
+
         }
         System.out.println(multiplicacionOpcion2);
 
