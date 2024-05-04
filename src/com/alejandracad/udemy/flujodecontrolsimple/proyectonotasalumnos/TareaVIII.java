@@ -2,7 +2,7 @@ package com.alejandracad.udemy.flujodecontrolsimple.proyectonotasalumnos;
 
 import java.util.Scanner;
 
-public class Tarea8 {
+public class TareaVIII {
     public static void main(String[] args) {
 
         Double[] arregloNotas = new Double[20];

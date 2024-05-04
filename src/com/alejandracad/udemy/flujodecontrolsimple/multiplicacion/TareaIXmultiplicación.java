@@ -1,6 +1,6 @@
 package com.alejandracad.udemy.flujodecontrolsimple.multiplicacion;
 
-public class multiplicación {
+public class TareaIXmultiplicación {
     public static void main(String[] args) {
 
         int numero1 = -2;
@@ -24,7 +24,6 @@ public class multiplicación {
             }else {
                 multiplicacionOpcion2 += numero1;
             }
-
 
         }
         System.out.println(multiplicacionOpcion2);
