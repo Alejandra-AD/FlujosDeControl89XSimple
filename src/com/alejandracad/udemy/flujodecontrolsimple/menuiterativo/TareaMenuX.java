@@ -14,7 +14,6 @@ public class TareaMenuX {
            también se les conoce como diccionarios para almacenar datos con base a un nombre.*/
 
         Map<String, Integer> opciones = new HashMap();
-
         opciones.put("Actualizar", 1);
         opciones.put("Eliminar", 2);
         opciones.put("Agregar", 3);
