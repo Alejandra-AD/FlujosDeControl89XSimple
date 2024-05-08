@@ -13,6 +13,7 @@ public class TareaMenuX {
            pero son como un arreglo asociativo, asocia un nombre (o índice) a un valor
            también se les conoce como diccionarios para almacenar datos con base a un nombre.*/
 
+
         Map<String, Integer> opciones = new HashMap();
         opciones.put("Actualizar", 1);
         opciones.put("Eliminar", 2);
